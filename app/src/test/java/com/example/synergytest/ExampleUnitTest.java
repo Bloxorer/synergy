@@ -2,7 +2,7 @@ package com.example.synergytest;
 
 import org.junit.Test;
 
-import static org.junit.Assert.*;
+import static org.junit.Ass ert.*;
 
 /**
  * Example local unit test, which will execute on the development machine (host).
